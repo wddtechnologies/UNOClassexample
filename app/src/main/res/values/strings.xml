@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UNO-Land</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="your_hand">Your Hand: </string>
+    <string name="your_hand_2">Select card to play </string>
+    <string name="top_of_pile">Top of pile: </string>
+    <string name="your_opponent_cards">Your opponent (the computer) has 7 cards
+        remaining</string>
+    <string name="Cards_rem">80 cards</string>
+    <string name="Cards_rem_2">remaining on the deck</string>
+    <string name="pick_card">Pick up card</string>
+    <string name="card_val_top_pile">9</string>
+    <string name="card_val_1">1</string>
+    <string name="card_val_2">2</string>
+    <string name="card_val_3">3</string>
+    <string name="card_val_4">4</string>
+    <string name="card_val_5">5</string>
+    <string name="card_val_6">6</string>
+    <string name="card_val_7">7</string>
+</resources>
